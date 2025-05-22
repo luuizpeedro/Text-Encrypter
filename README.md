@@ -6,3 +6,5 @@ Aqui temos a captura de tela do projeto:
 
 
 ![screenshot](screenshot.png)
+
+Créditos: [@AsmrProg](https://github.com/AsmrProg-YT)
