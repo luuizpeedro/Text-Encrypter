@@ -5,4 +5,4 @@ Text Encrypter é uma ferramenta simples e eficiente para criptografar e descrip
 Aqui temos a captura de tela do projeto:
 
 
-![screenshot](screenshot.jpg)
+![screenshot](screenshot.png)
