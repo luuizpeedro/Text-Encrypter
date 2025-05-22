@@ -1,9 +1,8 @@
-# Day #47
-
-### Text Encryptor
-In this tutorial ([Open in Youtube](https://youtu.be/v6XdqdByL5c)), I am gonna showing to you how to code a text encryptor using javascript. with this text encryptor you can encrypt your text using random passwords and make it secure and only who know password can decrypt text❗️
+# Text Encryptor
+Text Encrypter é uma ferramenta simples e eficiente para criptografar e descriptografar textos. Ideal para fins educacionais, demonstrações de segurança básica ou aplicações que precisam de uma camada adicional de proteção de dados em texto puro.
 
 # Screenshot
-Here we have project screenshot :
+Aqui temos a captura de tela do projeto:
+
 
 ![screenshot](screenshot.jpg)
